@@ -33,7 +33,7 @@ To run this project locally you need:
 
 ```bash
 git clone https://github.com/sammahkh/gator.git
-cd YOUR_REPO
+cd gator
 ```
 
 ### 2️⃣ Install dependencies
