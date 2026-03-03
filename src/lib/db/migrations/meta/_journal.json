@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772542600508,
+      "tag": "0000_omniscient_black_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772558070965,
+      "tag": "0001_peaceful_black_crow",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772575268329,
+      "tag": "0002_certain_wolfpack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772577614702,
+      "tag": "0003_awesome_baron_zemo",
+      "breakpoints": true
+    }
+  ]
+}
